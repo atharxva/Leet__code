@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/atharxva/Leet__code/tree/master/0152-maximum-product-subarray) |
 | [0238-product-of-array-except-self](https://github.com/atharxva/Leet__code/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/atharxva/Leet__code/tree/master/0268-missing-number) |
+| [0283-move-zeroes](https://github.com/atharxva/Leet__code/tree/master/0283-move-zeroes) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/atharxva/Leet__code/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0724-find-pivot-index](https://github.com/atharxva/Leet__code/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/atharxva/Leet__code/tree/master/1480-running-sum-of-1d-array) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/atharxva/Leet__code/tree/master/0125-valid-palindrome) |
+| [0283-move-zeroes](https://github.com/atharxva/Leet__code/tree/master/0283-move-zeroes) |
 ## String
 |  |
 | ------- |
