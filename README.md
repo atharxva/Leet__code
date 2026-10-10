@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/atharxva/Leet__code/tree/master/0001-two-sum) |
 | [0242-valid-anagram](https://github.com/atharxva/Leet__code/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/atharxva/Leet__code/tree/master/0268-missing-number) |
+| [0387-first-unique-character-in-a-string](https://github.com/atharxva/Leet__code/tree/master/0387-first-unique-character-in-a-string) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/atharxva/Leet__code/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 ## Math
 |  |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/atharxva/Leet__code/tree/master/0014-longest-common-prefix) |
 | [0125-valid-palindrome](https://github.com/atharxva/Leet__code/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/atharxva/Leet__code/tree/master/0242-valid-anagram) |
+| [0387-first-unique-character-in-a-string](https://github.com/atharxva/Leet__code/tree/master/0387-first-unique-character-in-a-string) |
 ## Greedy
 |  |
 | ------- |
@@ -105,4 +107,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/atharxva/Leet__code/tree/master/0014-longest-common-prefix) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/atharxva/Leet__code/tree/master/0387-first-unique-character-in-a-string) |
+## Counting
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/atharxva/Leet__code/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
