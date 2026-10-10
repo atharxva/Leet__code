@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/atharxva/Leet__code/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/atharxva/Leet__code/tree/master/0283-move-zeroes) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/atharxva/Leet__code/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0643-maximum-average-subarray-i](https://github.com/atharxva/Leet__code/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/atharxva/Leet__code/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/atharxva/Leet__code/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/atharxva/Leet__code/tree/master/1480-running-sum-of-1d-array) |
@@ -115,4 +116,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/atharxva/Leet__code/tree/master/0387-first-unique-character-in-a-string) |
+## Sliding Window
+|  |
+| ------- |
+| [0643-maximum-average-subarray-i](https://github.com/atharxva/Leet__code/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
