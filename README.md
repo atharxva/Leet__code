@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/atharxva/Leet__code/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/atharxva/Leet__code/tree/master/0283-move-zeroes) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/atharxva/Leet__code/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0611-valid-triangle-number](https://github.com/atharxva/Leet__code/tree/master/0611-valid-triangle-number) |
 | [0643-maximum-average-subarray-i](https://github.com/atharxva/Leet__code/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/atharxva/Leet__code/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/atharxva/Leet__code/tree/master/0724-find-pivot-index) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/atharxva/Leet__code/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/atharxva/Leet__code/tree/master/0268-missing-number) |
+| [0611-valid-triangle-number](https://github.com/atharxva/Leet__code/tree/master/0611-valid-triangle-number) |
 | [0704-binary-search](https://github.com/atharxva/Leet__code/tree/master/0704-binary-search) |
 ## Bit Manipulation
 |  |
@@ -58,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/atharxva/Leet__code/tree/master/0088-merge-sorted-array) |
 | [0242-valid-anagram](https://github.com/atharxva/Leet__code/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/atharxva/Leet__code/tree/master/0268-missing-number) |
+| [0611-valid-triangle-number](https://github.com/atharxva/Leet__code/tree/master/0611-valid-triangle-number) |
 | [0881-boats-to-save-people](https://github.com/atharxva/Leet__code/tree/master/0881-boats-to-save-people) |
 ## Dynamic Programming
 |  |
@@ -88,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/atharxva/Leet__code/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/atharxva/Leet__code/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/atharxva/Leet__code/tree/master/0283-move-zeroes) |
+| [0611-valid-triangle-number](https://github.com/atharxva/Leet__code/tree/master/0611-valid-triangle-number) |
 | [0881-boats-to-save-people](https://github.com/atharxva/Leet__code/tree/master/0881-boats-to-save-people) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/atharxva/Leet__code/tree/master/2149-rearrange-array-elements-by-sign) |
 ## String
@@ -103,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/atharxva/Leet__code/tree/master/0011-container-with-most-water) |
 | [0055-jump-game](https://github.com/atharxva/Leet__code/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/atharxva/Leet__code/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0611-valid-triangle-number](https://github.com/atharxva/Leet__code/tree/master/0611-valid-triangle-number) |
 | [0881-boats-to-save-people](https://github.com/atharxva/Leet__code/tree/master/0881-boats-to-save-people) |
 ## Simulation
 |  |
