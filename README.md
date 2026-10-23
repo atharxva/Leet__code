@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/atharxva/Leet__code/tree/master/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/atharxva/Leet__code/tree/master/0387-first-unique-character-in-a-string) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/atharxva/Leet__code/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0771-jewels-and-stones](https://github.com/atharxva/Leet__code/tree/master/0771-jewels-and-stones) |
 ## Math
 |  |
 | ------- |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/atharxva/Leet__code/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/atharxva/Leet__code/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/atharxva/Leet__code/tree/master/0387-first-unique-character-in-a-string) |
+| [0771-jewels-and-stones](https://github.com/atharxva/Leet__code/tree/master/0771-jewels-and-stones) |
 ## Greedy
 |  |
 | ------- |
