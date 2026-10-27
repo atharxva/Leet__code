@@ -6,13 +6,11 @@ class Solution:
         while start <= end:
             middle = (start + end) // 2
 
-            if nums[middle] == target:
-                return middle
-
-            elif nums[middle] > target:
-                end = middle - 1
-
-            else:
-                start = middle + 1
+            if nums[middle] > target:
+              end = middle-1
+            elif nums[middle]<target:
+              start = middle + 1
+            elif nums[middle] == target:
+              return middle
 
         return -1
